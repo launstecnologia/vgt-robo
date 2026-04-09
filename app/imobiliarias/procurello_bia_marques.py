@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "PROCURELLO (BIA MARQUES)", "eventos": ["SEGURO IMOBILIARIO (ANUAL)", "SEGURO IMOBILIARIO MENSAL"], "url": "https://www.biamarquesimoveis.com.br/kurole-sistema-imobiliario/", "id_imobiliaria": 36, "novas_locacoes": True}

@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "MEDITERRANEO", "eventos": ["SEGURO IMOBILIARIO (MENSAL)", "SEGURO IMOBILIARIO (ANUAL)"], "url": "http://www.mediterraneoimoveis.com.br/ksi-mediterraneo/", "id_imobiliaria": 32, "novas_locacoes": True}

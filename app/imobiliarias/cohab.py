@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "COHAB", "eventos": ["SEGURO IMOBILIARIO (MENSAL)"], "url": "https://www.cohabpremium.com.br/kurole-sistema-imobiliario/index.php", "id_imobiliaria": 22, "novas_locacoes": True}

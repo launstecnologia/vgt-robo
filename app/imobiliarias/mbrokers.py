@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "MBROKERS", "eventos": ["SEGURO IMOBILIARIO (ANUAL) - VGT", "SEGURO IMOBILIARIO (MENSAL) - VGT"], "url": "https://www.mbrokers.com.br/kurole-sistema-imobiliario/painel/painel_entrada.php", "id_imobiliaria": 30, "novas_locacoes": True}

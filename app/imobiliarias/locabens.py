@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "LOCABENS", "eventos": ["SEGURO INCENDIO (MENSAL) VGT"], "url": "https://www.redentora.com.br/kurole-sistema-imobiliario/index.php", "id_imobiliaria": 47, "novas_locacoes": True}

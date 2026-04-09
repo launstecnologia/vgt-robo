@@ -1,0 +1,10 @@
+{
+  "login_email": "USUARIO_PADRAO",
+  "login_senha_template": "SENHA_COM_{dia2}",
+  "api_upload_url": "https://apolice.launs.com/api_upload_locatarios.php",
+  "api_upload_key": "CHAVE_DA_API",
+  "db_host": "HOST_DO_BANCO",
+  "db_user": "USUARIO_DO_BANCO",
+  "db_password": "SENHA_DO_BANCO",
+  "db_database": "NOME_DO_BANCO"
+}

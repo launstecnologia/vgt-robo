@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "MALUFI", "eventos": ["SEGURO IMOBILIARIO (MENSAL)", "SEGURO IMOBILIARIO (ANUAL)"], "url": "http://www.imobiliariamalufi.com.br/kurole-sistema-imobiliario/index.php", "id_imobiliaria": 11, "novas_locacoes": True}

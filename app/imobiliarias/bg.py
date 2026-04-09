@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "BG", "eventos": ["SEGURO IMOBILIARIO (MENSAL)", "SEGURO IMOBILIARIO (ANUAL)"], "url": "http://www.bentogoncalvesimoveis.com.br/kurole-sistema-imobiliario/", "id_imobiliaria": 18, "novas_locacoes": True}

@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "MYBROKER RP", "eventos": ["SEGURO IMOBILIARIO (ANUAL)", "SEGURO IMOBILIARIO MENSAL KSI"], "url": "https://www.mybrokerribeiraopreto.com.br/kurole-sistema-imobiliario", "id_imobiliaria": 33, "novas_locacoes": True}

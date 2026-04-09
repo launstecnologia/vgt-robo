@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "ADDAD", "eventos": ["SEGURO INCENDIO ANUAL KSI", "SEGURO INCENDIO MENSAL KSI"], "url": "https://www.addadvolpe.com.br/kurole-sistema-imobiliario/index.php", "id_imobiliaria": 15, "novas_locacoes": True}

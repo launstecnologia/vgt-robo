@@ -1,0 +1,8 @@
+{
+  "imobiliarias": {
+    "ESTRUTURA": {
+      "login": "USUARIO_ESPECIFICO",
+      "senha_template": "SENHA_COM_{dia2}"
+    }
+  }
+}

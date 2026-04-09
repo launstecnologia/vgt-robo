@@ -1,0 +1,16 @@
+[Unit]
+Description=Robo VGT - Pagos e Novas Locacoes com competencia do mes anterior
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=robo
+WorkingDirectory=/opt/robo-vgt
+Environment=PYTHONUNBUFFERED=1
+ExecStart=/opt/robo-vgt/deploy/systemd/rodar_pagos_novas_competencia_anterior.sh
+StandardOutput=append:/opt/robo-vgt/logs/systemd_pagos_novas.log
+StandardError=append:/opt/robo-vgt/logs/systemd_pagos_novas.log
+
+[Install]
+WantedBy=multi-user.target

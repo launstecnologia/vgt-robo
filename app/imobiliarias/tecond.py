@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "TECOND", "eventos": ["SEGURO INCENDIO MENSAL KSI", "SEGURO INCENDIO ANUAL KSI", "SEGURO MENSAL KSI"], "url": "https://www.tecondimoveis.com.br/kurole-sistema-imobiliario/", "id_imobiliaria": 41, "novas_locacoes": True}

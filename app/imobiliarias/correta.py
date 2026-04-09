@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "CORRETA", "eventos": ["SEGURO IMOBILIARIO (MENSAL)", "SEGURO IMOBILIARIO (ANUAL)"], "url": "https://www.corretaimoveisaracatuba.com.br/ksi-correta/index.php", "id_imobiliaria": 13, "novas_locacoes": True}

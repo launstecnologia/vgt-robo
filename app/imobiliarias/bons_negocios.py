@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "BONS NEGOCIOS", "eventos": ["SEGURO IMOBILIARIO (MENSAL)", "SEGURO IMOBILIARIO (ANUAL)"], "url": "https://www.imobiliariabonsnegocios.com.br/kurole-sistema-imobiliario/index.php", "id_imobiliaria": 19, "novas_locacoes": True}

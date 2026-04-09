@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "CAVALO MARINHO", "eventos": ["SEGURO IMOBILIARIO (MENSAL)", "SEGURO IMOBILIARIO (ANUAL)"], "url": "https://www.cavalomarinhoimobiliaria.com.br/kurole-sistema-imobiliario/", "id_imobiliaria": 20, "novas_locacoes": True}

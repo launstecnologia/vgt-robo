@@ -1,0 +1,10 @@
+[Unit]
+Description=Agenda Robo VGT - Pagos e Novas Locacoes com competencia do mes anterior
+
+[Timer]
+OnCalendar=Mon..Fri 08:00
+Persistent=true
+Unit=robo-pagos-novas-competencia-anterior.service
+
+[Install]
+WantedBy=timers.target

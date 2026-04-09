@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "ALIANZZO", "eventos": ["SEGURO INCENDIO ANUAL KSI", "SEGURO INCENDIO MENSAL KSI"], "url": "https://www.alianzzoimoveis.com.br/kurole-sistema-imobiliario/", "id_imobiliaria": 17, "novas_locacoes": True}

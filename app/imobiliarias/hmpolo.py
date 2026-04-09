@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "HMPOLO", "eventos": ["SEGURO IMOBILIARIO (MENSAL)", "SEGURO IMOBILIARIO (ANUAL)"], "url": "https://www.hmpolo.com.br/kurole-sistema-imobiliario/index.php", "id_imobiliaria": 24, "novas_locacoes": True}

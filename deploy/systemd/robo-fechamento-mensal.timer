@@ -1,0 +1,10 @@
+[Unit]
+Description=Agenda Robo VGT - Fechamento mensal completo
+
+[Timer]
+OnCalendar=*-*-01 06:00
+Persistent=true
+Unit=robo-fechamento-mensal.service
+
+[Install]
+WantedBy=timers.target

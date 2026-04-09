@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "PEDRO GRANADO", "eventos": ["SEGURO IMOBILIARIO (ANUAL)", "SEGURO INCENDIO IMOB (MENSAL)"], "url": "https://www.pedrogranado.com.br/kurole-sistema-imobiliario/index.php", "id_imobiliaria": 9, "novas_locacoes": True}

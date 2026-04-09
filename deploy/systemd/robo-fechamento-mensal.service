@@ -1,0 +1,16 @@
+[Unit]
+Description=Robo VGT - Fechamento mensal completo
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=robo
+WorkingDirectory=/opt/robo-vgt
+Environment=PYTHONUNBUFFERED=1
+ExecStart=/opt/robo-vgt/deploy/systemd/rodar_fechamento_mensal.sh
+StandardOutput=append:/opt/robo-vgt/logs/systemd_fechamento_mensal.log
+StandardError=append:/opt/robo-vgt/logs/systemd_fechamento_mensal.log
+
+[Install]
+WantedBy=multi-user.target

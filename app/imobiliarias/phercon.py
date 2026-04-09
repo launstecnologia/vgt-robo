@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "PHERCON", "eventos": ["SEGURO INCENDIO KSI ANUAL ", "SEGURO INCENDIO KSI MENSAL "], "url": "https://www.pherconimoveis.com.br/kurole-sistema-imobiliario/", "id_imobiliaria": 48, "novas_locacoes": True}

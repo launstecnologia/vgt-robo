@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "SJC", "eventos": ["SEGURO IMOBILIARIO (MENSAL)", "SEGURO IMOBILIARIO (ANUAL)"], "url": "http://www.imoveissjc.com/kurole-sistema-imobiliario/index.php", "id_imobiliaria": 39, "novas_locacoes": True}

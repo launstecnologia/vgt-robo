@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "FRANÇA", "eventos": ["SEGURO IMOBILIARIO (MENSAL)", "SEGURO IMOBILIARIO (ANUAL)"], "url": "https://www.francaimobiliaria.com.br/kurole-sistema-imobiliario/index.php", "id_imobiliaria": 7, "novas_locacoes": True}

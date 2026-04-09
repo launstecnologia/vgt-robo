@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "RESENDE", "eventos": ["SEGURO IMOBILIARIO (ANUAL)", "SEGURO IMOBILIARIO MENSAL"], "url": "https://www.jresendeimoveis.com.br/kurole-sistema-imobiliario/index.php", "id_imobiliaria": 38, "novas_locacoes": True}

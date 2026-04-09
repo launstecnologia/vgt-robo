@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "MYBROKER UBERLANDIA", "eventos": ["SEGURO INCENDIO ANUAL KSI", "SEGURO INCENDIO MENSAL KSI"], "url": "https://www.mybrokeralugueluberlandia.com.br/kurole-sistema-imobiliario/index.php", "id_imobiliaria": 51, "novas_locacoes": True}

@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "LPG", "eventos": ["SEGURO INCENDIO (ANUAL)", "SEGURO INCENDIO (MENSAL)"], "url": "https://www.lpgimoveis.com.br/kurole-sistema-imobiliario/", "id_imobiliaria": 28, "novas_locacoes": True}

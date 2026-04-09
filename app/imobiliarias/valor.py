@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "VALOR", "eventos": ["SEGURO IMOBILIARIO", "SEGURO IMOBILIARIO (ANUAL)"], "url": "https://www.valorimoveispr.com.br/kurole-sistema-imobiliario", "id_imobiliaria": 43, "novas_locacoes": True}

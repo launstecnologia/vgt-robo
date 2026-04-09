@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "COLISEU", "eventos": ["SEGURO INCENDIO ANUAL KSI", "SEGURO INCENDIO MENSAL KSI"], "url": "https://www.imobicoliseu.com.br/kurole-sistema-imobiliario/", "id_imobiliaria": 49, "novas_locacoes": True}

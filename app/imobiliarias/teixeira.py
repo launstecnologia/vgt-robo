@@ -1,0 +1,1 @@
+IMOBILIARIA = {"nome": "TEIXEIRA", "eventos": ["SEGURO IMOBILIARIO (MENSAL)", "SEGURO IMOBILIARIO (ANUAL)"], "url": "https://www.teixeiradecarvalho.com.br/kurole-sistema-imobiliario/index.php", "id_imobiliaria": 42, "novas_locacoes": True}
