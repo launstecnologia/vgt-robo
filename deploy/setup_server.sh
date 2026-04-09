@@ -40,11 +40,12 @@ replace_in_file() {
   local file="$1"
   local search="$2"
   local replace="$3"
-  python3 - <<PY
+  python3 - "$file" "$search" "$replace" <<'PY'
+import sys
 from pathlib import Path
-path = Path(r"""$file""")
+path = Path(sys.argv[1])
 text = path.read_text(encoding="utf-8")
-text = text.replace(r"""$search""", r"""$replace""")
+text = text.replace(sys.argv[2], sys.argv[3])
 path.write_text(text, encoding="utf-8")
 PY
 }
