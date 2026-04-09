@@ -133,6 +133,12 @@ def pasta_download_imobiliaria(nome_imob, tipo_planilha, data_referencia=None):
 # =========================
 def iniciar_driver():
     options = Options()
+    options.binary_location = os.getenv("ROBO_CHROME_BINARY", "/usr/bin/google-chrome")
+    options.add_argument("--headless=new")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--disable-gpu")
+    options.add_argument("--window-size=1920,1080")
     options.add_argument("--start-maximized")
     os.makedirs(DOWNLOAD_DIR, exist_ok=True)
     for pasta in DOWNLOADS_POR_TIPO.values():
